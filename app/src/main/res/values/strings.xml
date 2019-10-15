@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UngDungDocTho</string>
+    <string name="text_tieu_de">Tiêu Đề</string>
+    <string name="text_tac_gia">Tác Giả</string>
+</resources>
